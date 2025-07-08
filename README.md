@@ -32,7 +32,7 @@
  Save as PDF or Finish & Clear options available.
 
 5. Webhook Submission
- Automatically submits the form data as JSON to a mock endpoint (https://httpbin.org/post) when the PDF is saved.
+ Automatically submits the form data as JSON to a mock endpoint (https://webhook.site/0565a1cc-9af7-49b1-adf9-01da1493adc6) when the PDF is saved.
 
 6. Offline Support
  Works fully offline. Data and PDF are stored locally.
